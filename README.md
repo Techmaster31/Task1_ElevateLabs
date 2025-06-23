@@ -1,21 +1,21 @@
 # Task1_ElevateLabs
 First task of the Internship.
 
-# 🧹 Task 1: Data Cleaning and Preprocessing
+# Task 1: Data Cleaning and Preprocessing
 
-## 📌 Objective
+##  Objective
 Clean and prepare a raw dataset by handling missing values, removing duplicates, and ensuring consistent formatting for analysis.
 
-## 🛠 Tools Used
+## Tools Used
 - Python 3
 - Pandas
 - Jupyter Notebook / VSCode / Any Python IDE
 
-## 📂 Dataset
+##  Dataset
 **Dataset Used:** `marketing_campaign.csv`  
 **Source:** [Kaggle - Customer Personality Analysis](https://www.kaggle.com/datasets/imakash3011/customer-personality-analysis)
 
-## 🔍 Data Cleaning Steps
+##  Data Cleaning Steps
 
 ### 1. Handle Missing Values
 - Checked for missing values using `.isnull().sum()`.
@@ -38,5 +38,5 @@ Clean and prepare a raw dataset by handling missing values, removing duplicates,
 - Ensured `year_birth` and `recency` were integers.
 - Checked that `Dt_Customer` was of type `datetime64`.
 
-## 📁 Output
-- ✅ Cleaned file saved as: `cleaned_marketing_campaign.csv`
+##  Output
+-  Cleaned file saved as: `cleaned_marketing_campaign.csv`
