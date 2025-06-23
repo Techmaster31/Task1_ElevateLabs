@@ -9,7 +9,7 @@ Clean and prepare a raw dataset by handling missing values, removing duplicates,
 ## Tools Used
 - Python 3
 - Pandas
-- Jupyter Notebook / VSCode / Any Python IDE
+- Google Colab
 
 ##  Dataset
 **Dataset Used:** `marketing_campaign.csv`  
